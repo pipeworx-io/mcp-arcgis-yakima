@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-yakima",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Yakima GIS — Yakima, Washington open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-71dd2a008f7249590fdf51e273cef74e8c9af5cc20d034297102a2d8e266acc2",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-85d7c2dede3473ceac87e961e57ac0448c8d186914dee36781da93af1e8e5116",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
